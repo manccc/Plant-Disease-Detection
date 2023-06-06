@@ -3,4 +3,4 @@ Keras
 numpy
 opencv_python
 tensorflow
-protobuf>=3.20.2
+protobuf==3.20.0
